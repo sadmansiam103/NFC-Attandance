@@ -10,6 +10,9 @@ Users scan their NFC cards at the reader. The ESP32 reads the card's unique iden
 
 The system also includes local data storage and a web-based administration interface hosted directly on the ESP32.
 
+## Project Image
+<img width="432" height="648" alt="image" src="https://github.com/user-attachments/assets/4e457c35-2fd8-4e42-aa33-9efbe1326b50" />
+
 ## Features
 
 - **NFC-based identification:** Reads NFC card UIDs using the PN532 module.
@@ -76,6 +79,8 @@ The system also includes local data storage and a web-based administration inter
        Admin Web Interface
        User Management
 ```
+## Circuit diagram
+<img width="1197" height="672" alt="Screenshot 2026-10-28 at 10 26 06 PM" src="https://github.com/user-attachments/assets/d71087b3-4ecc-41af-b78e-f6509807bec1" />
 
 ## How It Works
 
